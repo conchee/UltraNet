@@ -7,3 +7,5 @@ Original project ->https://github.com/heheda365/ultra_net
 # FPS
 about 175FPS(200MHz)
 # Reference
+https://github.com/conchee/ultranet_hls_ref
+https://github.com/heheda365/ultra_net
